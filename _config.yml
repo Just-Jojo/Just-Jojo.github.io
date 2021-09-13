@@ -22,7 +22,7 @@ plugins:
   - jekyll-feed
 title: Jojo's blog thing
 description: >- 
-  Okay
+  Random ramblings requiring little thought
 
 # Build settings
 theme: minima
