@@ -25,7 +25,7 @@ description: >-
   Random ramblings requiring little thought
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: minima
 
 minima:
   skin: dark
