@@ -11,6 +11,15 @@ date: {date} -0400
 
 # {title}
 <!-- Put stuff in here -->
+
+<script src="https://utteranc.es/client.js"
+        repo="Just-Jojo/Just-Jojo.github.io"
+        issue-term="pathname"
+        label="Comments"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 """.strip() 
 
 @click.group()
