@@ -19,3 +19,12 @@ Anyway, all this to say is that your creativity shouldn't be hindered by things 
 But if you write stupid fanfictions on the internet you should feel ashamed of yourself :)
 
 (Also, I may start to write more blogs if I remember this exists soooooo sorry in advanced?)
+
+<script src="https://utteranc.es/client.js"
+        repo="Just-Jojo/Just-Jojo.github.io"
+        issue-term="pathname"
+        label="Comments"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

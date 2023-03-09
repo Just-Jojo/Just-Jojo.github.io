@@ -18,3 +18,12 @@ Yeah, this episode was the saving grace for me. Sure, at the beginning it was ki
 If you have already, go watch Lycoris Recoil; it's pretty fun.
 
 ~~also fuck you JBP, go watch it~~
+
+<script src="https://utteranc.es/client.js"
+        repo="Just-Jojo/Just-Jojo.github.io"
+        issue-term="pathname"
+        label="Comments"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

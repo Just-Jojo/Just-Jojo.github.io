@@ -13,3 +13,12 @@ At the end of the road, if an end there may be, is a tree, burned and scorned by
 
 
 ## Annnnnyway I should probably sleep
+
+<script src="https://utteranc.es/client.js"
+        repo="Just-Jojo/Just-Jojo.github.io"
+        issue-term="pathname"
+        label="Comments"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

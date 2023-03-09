@@ -11,3 +11,12 @@ Yet, whenever Saturday rolls around I get severely depressed. My motivation drop
 Anyway, all this to say that I'm gonna start taking breaks from everything every Saturday and Sunday
 
 # I probably need therapy... hope you guys are doing well though :)
+
+<script src="https://utteranc.es/client.js"
+        repo="Just-Jojo/Just-Jojo.github.io"
+        issue-term="pathname"
+        label="Comments"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

@@ -14,3 +14,12 @@ I'm smart enough to know that this notion that everyone will dislike me just bec
 This obviously is not great for my mental health and I have often locked up to where I couldn't do anything as I was so afraid everyone hated me or just put up with me as they would feel bad if they left me alone, which is, of course, not the case. Yet the feeling remains no matter how stupid I know it to be. The logical part of my brain only kicks in when I am not depressed and that doesn't help when I am depressed.
 
 Will I ever get over this feeling? Probably not. Will I continue to avoid everyone as much as I can? Yes. Will I ever find the last dragon ball? Tune in next time to Dragon Ball Z
+
+<script src="https://utteranc.es/client.js"
+        repo="Just-Jojo/Just-Jojo.github.io"
+        issue-term="pathname"
+        label="Comments"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

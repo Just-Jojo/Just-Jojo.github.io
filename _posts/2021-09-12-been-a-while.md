@@ -22,3 +22,12 @@ I have no real idea or plan on what I'm going to do but I hope to get some more 
 I don't have anything for this... uhhhh
 
 Just have a good day :)
+
+<script src="https://utteranc.es/client.js"
+        repo="Just-Jojo/Just-Jojo.github.io"
+        issue-term="pathname"
+        label="Comments"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

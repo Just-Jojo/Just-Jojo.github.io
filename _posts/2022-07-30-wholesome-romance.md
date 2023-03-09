@@ -26,3 +26,12 @@ Yeah, yeah, I haven't made a post in a few days and that's due to me: A) not hav
 I'll *probably* try to make a few more blog posts in the following week but idk if I will.
 
 Cya later or whatever and thanks for reading you masochists :)
+
+<script src="https://utteranc.es/client.js"
+        repo="Just-Jojo/Just-Jojo.github.io"
+        issue-term="pathname"
+        label="Comments"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

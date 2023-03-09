@@ -20,3 +20,12 @@ Sunlight. I've snapped out of it again and am back, just sitting, admiring the v
 But I'll be back, it's bound to me and I to it.
 
 ## Cold, empty, infinite, so sweet and yet... so venomous
+
+<script src="https://utteranc.es/client.js"
+        repo="Just-Jojo/Just-Jojo.github.io"
+        issue-term="pathname"
+        label="Comments"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

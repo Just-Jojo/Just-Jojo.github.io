@@ -18,3 +18,12 @@ Anyway, the story is super interesting and is very dark so if you like medieval-
 Also the art is super amazing, double page spreads are literally sex honestly.
 
 # Anyway have fun :)
+
+<script src="https://utteranc.es/client.js"
+        repo="Just-Jojo/Just-Jojo.github.io"
+        issue-term="pathname"
+        label="Comments"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

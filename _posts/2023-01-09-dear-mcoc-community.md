@@ -17,3 +17,12 @@ I quit playing MCOC at the beginning of 2021 (I think, memory's broken) and I di
 So, with that being said, the main reason I left was to move on with my life and find some other community to burden with my existence. It's been fun and I appreciate you guys a whole heck of a lot.
 
 # Bad explanation but... Anyway, go find some other femboy to simp over :p
+
+<script src="https://utteranc.es/client.js"
+        repo="Just-Jojo/Just-Jojo.github.io"
+        issue-term="pathname"
+        label="Comments"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
