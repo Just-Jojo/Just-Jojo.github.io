@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 ## Who am I?
+I'm me
 
-I'm just some kid learning to code. Nothing special
+## What am I?
+A person probably
 
-## What do I do?
-I've been learning Python and C++ and I host a Discord bot and design code for other Discord bots
+## What is this site about?
+My silly ramblings and other stuff I find interesting
 
-## Contact?
-First, contacting is weird okay? Next, you can join [my friend's Discord server](https://discord.gg/JmCFyq7) and ping me (I'm Jojo#7791 on Discord)
-
-Otherwise you can just survive without talking to me lol
+## Can you let my family go now please?
+No :3
