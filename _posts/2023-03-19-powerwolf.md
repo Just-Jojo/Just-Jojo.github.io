@@ -15,7 +15,7 @@ My current favourite is Sermon of Swords from their album Call of the Wild.
 
 Have fun :3
 
-https://www.youtube.com/watch?v=E1Tf9PySS2I
+[https://www.youtube.com/watch?v=E1Tf9PySS2I](https://www.youtube.com/watch?v=E1Tf9PySS2I)
 
 ## Love you
 
